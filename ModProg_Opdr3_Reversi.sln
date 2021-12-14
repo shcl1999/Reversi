@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModProg_Opdr3_Reversi", "ModProg_Opdr3_Reversi\ModProg_Opdr3_Reversi.csproj", "{1E5EF8DA-45C5-46DA-B094-643882BE30B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E5EF8DA-45C5-46DA-B094-643882BE30B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E5EF8DA-45C5-46DA-B094-643882BE30B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E5EF8DA-45C5-46DA-B094-643882BE30B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E5EF8DA-45C5-46DA-B094-643882BE30B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32237FB4-0013-435A-976D-9EF4E7C8B13C}
+	EndGlobalSection
+EndGlobal
